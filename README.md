@@ -14,4 +14,4 @@ This is a beginner-friendly SQL project simulating a mini music streaming platfo
 - Many-to-many relationships (playlist_songs)
 
 ## 👩‍💻 Author
-Komal Passi — Aspiring SQL & Database Intern 💻✨
+Komal — Aspiring SQL & Database Intern 💻✨
